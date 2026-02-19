@@ -1,0 +1,30 @@
+// @ts-check
+import { defineConfig } from "astro/config";
+import starlight from "@astrojs/starlight";
+
+// https://astro.build/config
+export default defineConfig({
+  integrations: [
+    starlight({
+      title: "UX Management: Strategy and Tactics",
+      social: [
+        {
+          icon: "github",
+          label: "GitHub",
+          href: "https://github.com/vhnam/ux-management-strategy-and-tactics",
+        },
+      ],
+      sidebar: [
+        {
+          label: "Where to Begin?",
+          items: [
+            {
+              label: "Welcome to UX Management: Strategy and Tactics",
+              slug: "where-to-begin/welcome-to-ux-management-strategy-and-tactics",
+            },
+          ],
+        },
+      ],
+    }),
+  ],
+});
