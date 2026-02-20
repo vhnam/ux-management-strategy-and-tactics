@@ -26,6 +26,11 @@ export default defineConfig({
               label: "Understanding UX and UX Teams",
               slug: "where-to-begin/understanding-ux-and-ux-teams",
             },
+            {
+              label:
+                "Interview: Understanding the Core Function of UX Teams - User Advocacy",
+              slug: "where-to-begin/interview-understanding-the-core-function-of-ux-teams-user-advocacy",
+            },
           ],
         },
       ],
