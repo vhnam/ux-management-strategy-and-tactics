@@ -22,6 +22,10 @@ export default defineConfig({
               label: "Welcome to UX Management: Strategy and Tactics",
               slug: "where-to-begin/welcome-to-ux-management-strategy-and-tactics",
             },
+            {
+              label: "Understanding UX and UX Teams",
+              slug: "where-to-begin/understanding-ux-and-ux-teams",
+            },
           ],
         },
       ],
