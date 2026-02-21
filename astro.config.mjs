@@ -39,6 +39,10 @@ export default defineConfig({
               label: "UX Maturity as a Lifecycle",
               slug: "where-to-begin/ux-maturity-a-lifecycle-view",
             },
+            {
+              label: "Assessing Your Organization’s UX Maturity",
+              slug: "where-to-begin/assessing-your-organization-s-ux-maturity",
+            },
           ],
         },
       ],
