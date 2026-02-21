@@ -49,6 +49,15 @@ export default defineConfig({
             },
           ],
         },
+        {
+          label: "Making the Business Case for UX",
+          items: [
+            {
+              label: "Business Goals of UX",
+              slug: "making-the-business-case-for-ux/business-goals-of-ux",
+            },
+          ],
+        }
       ],
     }),
   ],
