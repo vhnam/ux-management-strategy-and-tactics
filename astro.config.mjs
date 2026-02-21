@@ -65,6 +65,10 @@ export default defineConfig({
               slug: "making-the-business-case-for-ux/interview-a--what-managers-need-to-know-about-ux",
             },
             {
+              label: "Interview: How Teams Perform - Analysis Paralysis",
+              slug: "making-the-business-case-for-ux/interview--how-teams-perform--analysis-paralysis",
+            },
+            {
               label: "What is the ROI of UX?",
               slug: "making-the-business-case-for-ux/what-is-the-roi-of-ux",
             },
