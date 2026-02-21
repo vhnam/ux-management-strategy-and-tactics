@@ -43,6 +43,10 @@ export default defineConfig({
               label: "Assessing Your Organization’s UX Maturity",
               slug: "where-to-begin/assessing-your-organization-s-ux-maturity",
             },
+            {
+              label: "First Steps Toward Accelerating and Growing UX",
+              slug: "where-to-begin/first-steps-toward-accelerating-and-growing-ux",
+            },
           ],
         },
       ],
