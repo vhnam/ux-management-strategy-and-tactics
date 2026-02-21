@@ -2,8 +2,6 @@
 title: Managing UX as a Process
 ---
 
-# Managing UX – Strategy and Tactics – UX as an Outside-In, Data-Driven Process
-
 ## UX as a Process, Not an Event
 
 ### Shift from Inside-Out to Outside-In
