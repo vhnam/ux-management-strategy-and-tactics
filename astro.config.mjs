@@ -61,7 +61,7 @@ export default defineConfig({
               slug: "making-the-business-case-for-ux/how-teams-perform-with-ux-the-good-the-bad-the-ugly",
             },
             {
-              label: "Interview (A) – What Managers Need to Know About UX",
+              label: "Interview (A) - What Managers Need to Know About UX",
               slug: "making-the-business-case-for-ux/interview-a--what-managers-need-to-know-about-ux",
             },
             {
@@ -71,6 +71,14 @@ export default defineConfig({
             {
               label: "What is the ROI of UX?",
               slug: "making-the-business-case-for-ux/what-is-the-roi-of-ux",
+            },
+            {
+              label: "Interview - Quantifying Success in UX efforts",
+              slug: "making-the-business-case-for-ux/interview--quantifying-success-in-ux-efforts",
+            },
+            {
+              label: "Interview (B) - What Managers Need to Know About UX",
+              slug: "making-the-business-case-for-ux/interview-b--what-managers-need-to-know-about-ux",
             },
           ],
         },
