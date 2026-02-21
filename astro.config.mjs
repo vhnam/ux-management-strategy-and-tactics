@@ -64,6 +64,10 @@ export default defineConfig({
               label: "Interview (A) – What Managers Need to Know About UX",
               slug: "making-the-business-case-for-ux/interview-a--what-managers-need-to-know-about-ux",
             },
+            {
+              label: "What is the ROI of UX?",
+              slug: "making-the-business-case-for-ux/what-is-the-roi-of-ux",
+            },
           ],
         },
       ],
