@@ -56,8 +56,12 @@ export default defineConfig({
               label: "Business Goals of UX",
               slug: "making-the-business-case-for-ux/business-goals-of-ux",
             },
+            {
+              label: "How Teams Perform With UX: the Good, the Bad, the Ugly",
+              slug: "making-the-business-case-for-ux/how-teams-perform-with-ux-the-good-the-bad-the-ugly",
+            },
           ],
-        }
+        },
       ],
     }),
   ],
