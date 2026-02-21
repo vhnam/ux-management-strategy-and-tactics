@@ -60,6 +60,10 @@ export default defineConfig({
               label: "How Teams Perform With UX: the Good, the Bad, the Ugly",
               slug: "making-the-business-case-for-ux/how-teams-perform-with-ux-the-good-the-bad-the-ugly",
             },
+            {
+              label: "Interview (A) – What Managers Need to Know About UX",
+              slug: "making-the-business-case-for-ux/interview-a--what-managers-need-to-know-about-ux",
+            },
           ],
         },
       ],
