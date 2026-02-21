@@ -35,6 +35,10 @@ export default defineConfig({
               label: "Managing UX as a Process",
               slug: "where-to-begin/managing-ux-as-a-process",
             },
+            {
+              label: "UX Maturity as a Lifecycle",
+              slug: "where-to-begin/ux-maturity-a-lifecycle-view",
+            },
           ],
         },
       ],
